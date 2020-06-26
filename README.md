@@ -4,7 +4,7 @@ This application upload images to a S3 Amazon Bucket and trigger a lambda functi
 
 # Configuration
 
-To use this application you need to go to Core/Config.php and change the $host to your local server. 
+To use this application you need to go to Core/Config.php and change the $host to your local server and the folder name to S3App/ if is necessary. 
 
 # initialization
 

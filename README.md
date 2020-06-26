@@ -6,5 +6,9 @@ This application upload images to a S3 Amazon Bucket and trigger a lambda functi
 
 To use this application you need to go to Core/Config.php and change the $host to your local server.
 
+# initialization
+
+You need to use a Php server in order to use this application
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

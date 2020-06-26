@@ -8,7 +8,7 @@ To use this application you need to go to Core/Config.php and change the $host t
 
 # initialization
 
-You need to use a Php server in order to use this application
+You need to use a Php 5.3 or above server in order to use this application
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

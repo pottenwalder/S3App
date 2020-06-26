@@ -1,0 +1,13 @@
+{
+    "require": {
+        "particle/validator": "^2.3",
+        "phpoffice/phpexcel": "^1.8",
+        "aws/aws-sdk-php": "^3.143",
+      "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Core\\": "core",
+            "App\\" : "app"}
+    }
+}
